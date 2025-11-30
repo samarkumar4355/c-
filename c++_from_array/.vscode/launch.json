@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/samarkumar/Desktop/c++_from_array/lec-07",
+      "program": "/Users/samarkumar/Desktop/c++_from_array/lec-07/build/Debug/outDebug"
+    }
+  ]
+}
